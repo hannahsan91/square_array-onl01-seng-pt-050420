@@ -1,4 +1,4 @@
-def square_array(array)
-  array = [1, 2, 3]
+def square_array(Array)
+  Array = [1, 2, 3]
 end
-square_array(array)
+square_array(Array)
